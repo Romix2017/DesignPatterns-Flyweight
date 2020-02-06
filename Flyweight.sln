@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{061BA72F-EB36-46F4-8CD8-B63ED952672A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightRealWorld", "FlyweightRealWorld\FlyweightRealWorld.csproj", "{3A640055-0FE4-4837-91AC-20C6EF6787A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{061BA72F-EB36-46F4-8CD8-B63ED952672A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061BA72F-EB36-46F4-8CD8-B63ED952672A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061BA72F-EB36-46F4-8CD8-B63ED952672A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061BA72F-EB36-46F4-8CD8-B63ED952672A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A640055-0FE4-4837-91AC-20C6EF6787A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A640055-0FE4-4837-91AC-20C6EF6787A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A640055-0FE4-4837-91AC-20C6EF6787A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A640055-0FE4-4837-91AC-20C6EF6787A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4364E368-A843-4DE0-9024-436AE1DD19FA}
+	EndGlobalSection
+EndGlobal
